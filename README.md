@@ -115,6 +115,8 @@ http://localhost:5000
 - Upload to NodeMCU ESP8266
 
 ---
+## Setup
+Replace YOUR_API_KEY_HERE with your OpenWeatherMap API key
 
 
 
