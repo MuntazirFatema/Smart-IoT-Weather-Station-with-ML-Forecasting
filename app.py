@@ -16,7 +16,7 @@ with open("weather_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # ── Config ──
-API_KEY = "27566886e658d03255cd1541998174ea"
+API_KEY = "YOUR_API_KEY_HERE"
 CITY    = "Bhavnagar"
 
 # ── Label Encoder for weather conditions ──
