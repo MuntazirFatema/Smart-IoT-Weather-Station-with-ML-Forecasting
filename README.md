@@ -122,7 +122,7 @@ http://localhost:5000
 
 **Muntazir Fatema Panjwani**
 - GitHub: [@MuntazirFatema](https://github.com/MuntazirFatema)
-- LinkedIn: [Muntazir Fatema](https://www.linkedin.com/in/muntazir-fatema)
+- LinkedIn: https://www.linkedin.com/in/muntazir-fatema-cte-gecbvn-ec-560871335/  
 - B.E. ECE Student @ GEC Bhavnagar
 
 ---
